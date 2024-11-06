@@ -9,6 +9,6 @@ PC Station, is a comprehensive e-commerce website built using PHP and SQL, speci
 - Order and Inventory Management: The SQL database stores real-time information on orders and inventory levels, ensuring accurate tracking of stock and timely updates for users.
 - Search and Filtering Options: Users can search for products by keywords or apply filters based on brand, category, price range, and other attributes, making it easier to find specific items.
 
-## Disclamer
+## Disclaimer
 // Disclaimer: This code is implemented in PHP 7.0, which is an older version of PHP. Compatibility with later versions (PHP 7.4 or 8.0+) may vary, and some functions or syntax used here may be deprecated in newer releases.
 
